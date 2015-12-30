@@ -8,7 +8,7 @@ title: Hobbies
 
 ### Cooking
 I love cooking. I taught myself cooking through online and WOM by trying
-to reproduce spicy dishes I like. I learnt to cook many South Indian, North Indian, Chinese, Arabian dishes. Recently I have been learning Thai dishes. I am always up to learn how to to cook a exotic new dish.
+to reproduce spicy dishes I like. I learnt to cook many South Indian, North Indian, Chinese, Arabian dishes. Recently I have been learning Thai dishes. I am always up to learn how to cook a exotic new dish.
 
 ### Hiking
 I love traveling a lot. That's what brought me into this. At least two sundays in a month I do hiking. Taking bus to some unknown village nearby, wandering around there, chatting with people out there is one thing I like most.
@@ -17,7 +17,7 @@ I love traveling a lot. That's what brought me into this. At least two sundays i
 I was introduced into this during my NCC as a part of military obstacle course training. Then I got more enthu on it. Whenever I get perfect time and company, parkour will be my ultimate sophistication.
 
 ### A good chat
-There's nothing like an interesting chat over a barbeque (maybe a couple), talking shop, programming, business, travel, cats, anything really. If you're in town and want to meet up, be sure to holler! Surely a social butterfly, but I will lose my wings when it comes to texting or talking on phone. Meet me and I’ll entertain you.
+There's nothing like an interesting chat over a barbeque (maybe a couple), talking shop, programming, business, travel, dogs, movies, politics, anything really. If you're in town and want to meet up, be sure to holler! Surely a social butterfly, but I will lose my wings when it comes to texting or talking on phone. Meet me and I’ll entertain you.
 
 ### Travel
 I was lucky enough when I was a kid to live in a lot of different places. I kind of got the taste for travel afterwards, and I love visiting new places and meeting the people there.
