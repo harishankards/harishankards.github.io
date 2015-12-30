@@ -34,9 +34,9 @@ links:
   - title: About Me
     url: /
   - title: Skillset
-    url: /skillset/
+    url: /skillset
   - title: Hobbies
-    url: /hobbies/
+    url: /hobbies
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:  Asia/Calcutta
