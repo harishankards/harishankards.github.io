@@ -10,7 +10,7 @@ title: Skillset
   - Ruby (Ruby on Rails)
 
 ### Web design
-  - HTML
+  - HTML (jade, slim, haml)
   - CSS
   - Javascript
   - jQuery
