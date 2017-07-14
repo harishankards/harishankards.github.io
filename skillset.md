@@ -7,13 +7,12 @@ title: Skillset
 ## Skillset
 
 ### Web development
-  - Ruby (Ruby on Rails)
+  - React.js
 
 ### Web design
-  - HTML (Jade, Slim, Haml)
+  - HTML
   - CSS
   - Javascript
-  - jQuery
 
 ### Graphic design
   - Adobe Photoshop
@@ -33,7 +32,7 @@ title: Skillset
 
 ### Cooking
   - Poissonier
-  - Friturier 
-  - Rotisseur 
+  - Friturier
+  - Rotisseur
   - Potager
   - Also an Entremetier ;) :p
